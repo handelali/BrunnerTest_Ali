@@ -1,0 +1,5 @@
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\Brunner.OnlineShoppingCart.Data\Brunner.OnlineShoppingCart.Data\bin\Debug\Brunner.OnlineShoppingCart.Data.dll
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\Brunner.OnlineShoppingCart.Data\Brunner.OnlineShoppingCart.Data\bin\Debug\Brunner.OnlineShoppingCart.Data.pdb
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\Brunner.OnlineShoppingCart.Data\Brunner.OnlineShoppingCart.Data\obj\Debug\Brunner.OnlineShoppingCart.Data.csprojResolveAssemblyReference.cache
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\Brunner.OnlineShoppingCart.Data\Brunner.OnlineShoppingCart.Data\obj\Debug\Brunner.OnlineShoppingCart.Data.dll
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\Brunner.OnlineShoppingCart.Data\Brunner.OnlineShoppingCart.Data\obj\Debug\Brunner.OnlineShoppingCart.Data.pdb

@@ -1,0 +1,4 @@
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\Brunner.OnlineShoppingCart.Data\Brunner.OnlineShopping.EnumsCollection\bin\Debug\Brunner.OnlineShopping.EnumsCollection.dll
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\Brunner.OnlineShoppingCart.Data\Brunner.OnlineShopping.EnumsCollection\bin\Debug\Brunner.OnlineShopping.EnumsCollection.pdb
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\Brunner.OnlineShoppingCart.Data\Brunner.OnlineShopping.EnumsCollection\obj\Debug\Brunner.OnlineShopping.EnumsCollection.dll
+C:\Users\Antra Inc\Documents\Visual Studio 2013\Projects\Practice\Brunner.OnlineShoppingCart.Data\Brunner.OnlineShopping.EnumsCollection\obj\Debug\Brunner.OnlineShopping.EnumsCollection.pdb

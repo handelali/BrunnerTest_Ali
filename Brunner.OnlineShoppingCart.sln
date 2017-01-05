@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brunner.OnlineShoppingCart.Data", "Brunner.OnlineShoppingCart.Data\Brunner.OnlineShoppingCart.Data.csproj", "{59E2813F-D0A2-4A3D-A003-F16C331A4C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brunner.OnlineShoppingCart.Service", "Brunner.OnlineShoppingCart.Service\Brunner.OnlineShoppingCart.Service.csproj", "{50DD5956-8719-420D-84CA-0042A1850838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brunner.OnlineShopping.EnumsCollection", "Brunner.OnlineShopping.EnumsCollection\Brunner.OnlineShopping.EnumsCollection.csproj", "{CF463763-0405-49F4-87E3-E5CFE02D1D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brunner.OnlineShoppingCart.TestCases", "Brunner.OnlineShoppingCart.TestCases\Brunner.OnlineShoppingCart.TestCases.csproj", "{48C09586-A221-4F0A-A729-8A879DCE4368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E2813F-D0A2-4A3D-A003-F16C331A4C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E2813F-D0A2-4A3D-A003-F16C331A4C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E2813F-D0A2-4A3D-A003-F16C331A4C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E2813F-D0A2-4A3D-A003-F16C331A4C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50DD5956-8719-420D-84CA-0042A1850838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DD5956-8719-420D-84CA-0042A1850838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DD5956-8719-420D-84CA-0042A1850838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DD5956-8719-420D-84CA-0042A1850838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF463763-0405-49F4-87E3-E5CFE02D1D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF463763-0405-49F4-87E3-E5CFE02D1D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF463763-0405-49F4-87E3-E5CFE02D1D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF463763-0405-49F4-87E3-E5CFE02D1D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C09586-A221-4F0A-A729-8A879DCE4368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C09586-A221-4F0A-A729-8A879DCE4368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C09586-A221-4F0A-A729-8A879DCE4368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C09586-A221-4F0A-A729-8A879DCE4368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
